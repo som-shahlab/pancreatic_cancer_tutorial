@@ -7,7 +7,6 @@ Run the following scripts in order:
 1. create_labels.py
 2. create_features.py
 3. train_baselines.py
-4. train_motor.py
-5. train_clmbr.py
+4. train_fm.py
 
 The notebook analyze_results.ipynb allows you to analyze the results of that analysis.
